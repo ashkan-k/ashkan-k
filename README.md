@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashkan Karimi <img height="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif")></h1>
-<p align="center"><h4 align="center"><samp> A Django and Laravel Flutter Developer</samp></h4></p>
+<p align="center"><h4 align="center"><samp> A Django and Laravel and Flutter Developer</samp></h4></p>
 
 <div>
   
